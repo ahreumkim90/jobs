@@ -1,6 +1,6 @@
-# Backend Softward Engineer
+# Backend Software Engineer
 
-- 포지션: Backend Softward Engineer (정직원 또는 인턴)
+- 포지션: Backend Software Engineer (정직원 또는 인턴)
 - 근무위치: 강남 오피스 (강남역 5분거리) 또는 미국 실리콘밸리 오피스 (Sunnyvale, CA) 
 
 ## 마키나락스는.. 
