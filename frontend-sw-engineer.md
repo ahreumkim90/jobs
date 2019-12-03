@@ -1,7 +1,7 @@
 # Frontend Software Engineer
 
 - 포지션: Frontend Software Engineer (정직원 또는 인턴) 
-- 근무위치: 강남 오피스 (강남역 5분거리) 또는 미국 실리콘밸리 오피스 (Sunnyvale, CA) 
+- 근무위치: 서울 오피스 (역삼역 1분거리) 또는 미국 실리콘밸리 오피스 (Sunnyvale, CA) 
 
 ## 마키나락스는.. 
 
