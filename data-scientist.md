@@ -25,6 +25,9 @@
   - Active Learning and Continual Learning 
   - Reinforcement Learning 
   - [마키나락스가 고민하는 문제들](https://github.com/makinarocks/jobs/blob/master/research-topics.md)
+- 기타 참고 자료
+  - NAVER DEVIEW 2019 발표: [Operational AI: 지속적으로 학습하는 Anomaly Detection 시스템 만들기](https://deview.kr/2019/schedule/286)
+  - [RaPP: Reconstruction along Projection Pathway](https://openreview.net/forum?id=HkgeGeBYDB) (ICLR 2020 Accepted)
 
 ### 개발: 
 
