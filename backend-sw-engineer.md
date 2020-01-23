@@ -18,6 +18,8 @@
 - High availability, Scalability, Low latency를 갖는 제품의 제공을 위해 인프라 설계 및 구축합니다.
 - 성능 프로파일링, 최적화, CI/CD 등의 업무를 수행합니다.
 - 머신러닝 실험을 위한 환경을 구축하고 기술적 지원을 합니다.
+- 기타 참고 자료
+  - NAVER DEVIEW 2019 발표: [Operational AI: 지속적으로 학습하는 Anomaly Detection 시스템 만들기](https://deview.kr/2019/schedule/286)
 
 ## 필요역량
 
