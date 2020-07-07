@@ -51,7 +51,7 @@
 
 ## 지원방법 
 
-- 이력서를 (자유형식) contact@makinarocks.ai 로 보내주시길 바랍니다. 
+- 이력서를 (자유형식) jobs@makinarocks.ai 로 보내주시길 바랍니다. 
 - 서류검토 > 전화면접 > 기술면접 > 핏인터뷰 (Fit Interview) 순서로 진행합니다. 
 
 ## 복지 및 혜택 
