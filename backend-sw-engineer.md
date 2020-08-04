@@ -22,7 +22,7 @@
 
 ## 필요역량
 
-- 한 종류 종류의 데이터스토어 (RDBMS, NoSql, InmemoryCache 등) 에 대한 이해
+- 한 종류 이상의 데이터스토어 (RDBMS, NoSql, InmemoryCache 등) 에 대한 이해
 - 네트워크, 웹에 대한 기본적인 지식과 HTTP/REST/GRPC/WebSocket 등의 API 구현 경험
 - 시간복잡도와 공간복잡도의 계산, 자료구조/알고리즘 간의 성능 비교
 - 뛰어난 의사소통과 팀워크
