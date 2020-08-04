@@ -13,7 +13,8 @@
 
 ## 역할
 
-- 단일 모듈 혹은 클라우드 기반의 머신러닝 솔루션을 개발합니다.
+- 온프레미스 환경 혹은 클라우드 기반의 머신러닝 솔루션을 개발합니다.
+  - Anomaly Detection, Intelligent Control
 - 머신러닝 인하우스 도구 및 프레임워크를 개발합니다.
 - High availability, Scalability, Low latency를 갖는 제품의 제공을 위해 인프라 설계 및 구축합니다.
 - 성능 프로파일링, 최적화, CI/CD 등의 업무를 수행합니다.
@@ -21,7 +22,7 @@
 
 ## 필요역량
 
-- 다양한 종류의 데이터스토어 (RDBMS, NoSql, InmemoryCache 등) 에 대한 이해
+- 한 종류 종류의 데이터스토어 (RDBMS, NoSql, InmemoryCache 등) 에 대한 이해
 - 네트워크, 웹에 대한 기본적인 지식과 HTTP/REST/GRPC/WebSocket 등의 API 구현 경험
 - 시간복잡도와 공간복잡도의 계산, 자료구조/알고리즘 간의 성능 비교
 - 뛰어난 의사소통과 팀워크
@@ -30,9 +31,11 @@
 
 - 머신러닝에 대한 이해, 빅데이터 처리 경험
 - AWS, Azure, GCP 등 클라우드 플랫폼 사용 경험
-- Docker 등 컨테이너 기술, DevOps
+- Docker, Kubernetes 등 컨테이너 관리 및 오케스트레이션 경험
+- DevOps 혹은 MLOps 경험
 - Python을 사용한 제품 개발 경험
-- 개발문화에 대한 관심, 유닛테스트/코드리뷰/Scrum/TDD 등 경험
+- unittest, BDD 등을 활용한 TDD 경험
+- 유연한 개발문화에 대한 관심, 코드리뷰/Agile/Scrum 등
 
 ## 지원방법 
 
