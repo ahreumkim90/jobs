@@ -13,7 +13,7 @@
 
 ## 역할
 
-- 자체 구축환경 (On-premise) 혹은 클라우드 기반의 머신러닝 솔루션을 개발합니다.
+- 자체 구축 환경 (On-premise) 혹은 클라우드 기반의 머신러닝 솔루션을 개발합니다.
   - Anomaly Detection, Intelligent Control
 - 머신러닝 인하우스 도구 및 프레임워크를 개발합니다.
 - High availability, Scalability, Low latency를 갖는 제품의 제공을 위해 인프라 설계 및 구축합니다.
