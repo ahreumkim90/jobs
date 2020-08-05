@@ -13,43 +13,41 @@
 
 ## 역할 
 
-### Machine Learning Research Engineer - Deep learning based
+### Machine Learning Research Engineer
 
-#### 연구: 
-- 최신 머신러닝 알고리즘들을 구현하고, 다양한 제조/산업 데이터(센서데이터, 이미지, 시계열 등)에 평가/개선합니다. 
-- 다양한 알고리즘 특성 및 성능에 대해 이해하고, 새로운 기술을 연구합니다. 
-- 논문, 특허, 세미나, 오픈소스 활동 등을 통해 연구성과를 공유합니다. 
-- 주요 연구 주제 
-  - Anomaly Detection 
-  - Unsupervised Representation Learning 
-  - Active Learning and Continual Learning 
-  - [마키나락스가 고민하는 문제들](https://github.com/makinarocks/jobs/blob/master/research-topics.md)
-- 기타 참고 자료
-  - NAVER DEVIEW 2019 발표: [Operational AI: 지속적으로 학습하는 Anomaly Detection 시스템 만들기](https://deview.kr/2019/schedule/286)
-  - [RaPP: Reconstruction along Projection Pathway](https://openreview.net/forum?id=HkgeGeBYDB) (ICLR 2020 Accepted)
+- 연구
+  - 최신 머신러닝 알고리즘들을 구현하고, 다양한 제조/산업 데이터(센서데이터, 이미지, 시계열 등)에 평가/개선합니다. 
+  - 다양한 알고리즘 특성 및 성능에 대해 이해하고, 새로운 기술을 연구합니다. 
+  - 논문, 특허, 세미나, 오픈소스 활동 등을 통해 연구성과를 공유합니다. 
+  - 주요 연구 주제 
+    - Anomaly Detection 
+    - Unsupervised Representation Learning 
+    - Active Learning and Continual Learning 
+    - [마키나락스가 고민하는 문제들](https://github.com/makinarocks/jobs/blob/master/research-topics.md)
+  - 기타 참고 자료
+    - NAVER DEVIEW 2019 발표: [Operational AI: 지속적으로 학습하는 Anomaly Detection 시스템 만들기](https://deview.kr/2019/schedule/286)
+    - [RaPP: Reconstruction along Projection Pathway](https://openreview.net/forum?id=HkgeGeBYDB) (ICLR 2020 Accepted)
+- 개발
+  - 마키나락스가 풀고자 하는 산업 문제를 해결할 수 있는 소프트웨어를 개발합니다. 
+  - 데이터 분석 및 머신러닝 연구의 효율적 진행을 위한 자체 플랫폼을 설계 및 구현합니다. 
+  - 최신 머신러닝 알고리즘을 다양한 환경에서 시험하고 평가합니다. 
 
-#### 개발: 
-- 마키나락스가 풀고자 하는 산업 문제를 해결할 수 있는 소프트웨어를 개발합니다. 
-- 데이터 분석 및 머신러닝 연구의 효율적 진행을 위한 자체 플랫폼을 설계 및 구현합니다. 
-- 최신 머신러닝 알고리즘을 다양한 환경에서 시험하고 평가합니다. 
+### Machine Learning Research Engineer - Reinforcement learning focused
 
-### Machine Learning Research Engineer - Reinforcement learning based
-
-#### 연구:
-- 다양한 알고리즘 특성 및 성능에 대해 이해하고, 새로운 기술을 연구합니다. 
-- 최신 강화학습 알고리즘들을 구현하고, 다양한 산업 문제에 적용합니다.
-- 각 산업 분야에 특화된 기술을 개발하고 이에 기반이 되는 공통 강화학습 기술을 개발합니다.
-- 논문, 특허, 세미나, 라이브러리 개발 등을 통해 연구성과를 공유합니다. 
-- 주요 연구 주제 
-  - Reinforcement learning
-  - Sim2real problems
-  - Delayed reward problem
-  - Convergence check
-
-#### 개발:
-- 산업 시뮬레이터 및 실물과의 연동을 위한 환경을 구축합니다. 
-- 강화학습 연구를 위한 자체 라이브러리를 설계 및 구현합니다. 
-- 최신 강화학습 알고리즘을 다양한 환경에서 시험하고 평가합니다.
+- 연구
+  - 다양한 알고리즘 특성 및 성능에 대해 이해하고, 새로운 기술을 연구합니다. 
+  - 최신 강화학습 알고리즘들을 구현하고, 다양한 산업 문제에 적용합니다.
+  - 각 산업 분야에 특화된 기술을 개발하고 이에 기반이 되는 공통 강화학습 기술을 개발합니다.
+  - 논문, 특허, 세미나, 라이브러리 개발 등을 통해 연구성과를 공유합니다. 
+  - 주요 연구 주제 
+    - Reinforcement learning
+    - Sim2real problems
+    - Delayed reward problem
+    - Convergence check
+- 개발
+  - 산업 시뮬레이터 및 실물과의 연동을 위한 환경을 구축합니다. 
+  - 강화학습 연구를 위한 자체 라이브러리를 설계 및 구현합니다. 
+  - 최신 강화학습 알고리즘을 다양한 환경에서 시험하고 평가합니다.
 
 
 ## 필요역량
