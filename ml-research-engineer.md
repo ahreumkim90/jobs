@@ -65,7 +65,7 @@
 - 머신러닝 관련 컨퍼런스나 저널 출판 경험
 - 자기주도적으로 진행한 프로젝트 경험
 - Robotics 관련 프로젝트 경험
-- Mujoco, Unity 등 기타 시뮬레이터를 다룬 경험 (RL based)
+- Mujoco, Unity 등 기타 시뮬레이터를 다룬 경험 (RL focused)
 
 
 ## 지원방법
