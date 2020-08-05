@@ -32,14 +32,14 @@
   - 데이터 분석 및 머신러닝 연구의 효율적 진행을 위한 자체 플랫폼을 설계 및 구현합니다. 
   - 최신 머신러닝 알고리즘을 다양한 환경에서 시험하고 평가합니다. 
 
-### Machine Learning Research Engineer - Reinforcement learning focused
+### Machine Learning Research Engineer (RL focused)
 
 - 연구
   - 최신 강화학습 알고리즘들을 구현하고, 다양한 산업 문제에 적용합니다.
   - 각 산업 분야에 특화된 기술을 개발하고 이에 기반이 되는 공통 강화학습 기술을 개발합니다.
   - 논문, 특허, 세미나, 라이브러리 개발 등을 통해 연구성과를 공유합니다. 
   - 주요 연구 주제 
-    - Reinforcement learning
+    - Reinforcement Learning
     - Sim2real problems
     - Delayed reward problem
     - Convergence check
@@ -61,6 +61,7 @@
 ## 우대사항
 
 - PyTorch, TensorFlow, Keras와 같은 딥러닝 프레임워크에 대한 경험
+- MLOps 경험(실험 관리, 데이터 파이프라이닝 구축, 서버 구축/관리 등)
 - 소프트웨어 개발/엔지니어링 실무 경험
 - 머신러닝 관련 컨퍼런스나 저널 출판 경험
 - 자기주도적으로 진행한 프로젝트 경험
